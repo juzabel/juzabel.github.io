@@ -1,0 +1,265 @@
+{
+  "candidate": {
+    "name": "Julián Zaragoza Belloti",
+    "pic": "images/profile.png",
+    "cv-link": "resources/cv.pdf",
+    "introduction_text": "Soy un ingeniero Android con más de 13 años de experiencia en el desarrollo de aplicaciones móviles, enfocado en obtener resultados y crear soluciones eficientes y de alta calidad. Domino tanto enfoques tradicionales como modernos en el desarrollo de Android, lo que me permite adaptarme a distintos proyectos y desafíos. Apasionado por la tecnología, siempre busco mejorar mis habilidades y aportar al éxito del equipo. Mi enfoque colaborativo y compromiso con las mejores prácticas me permiten desenvolverme y crecer en entornos dinámicos.",
+    "contact": {
+      "telephone": "",
+      "email": "jzaragozabelloti@gmail.com",
+      "location": "Vila-seca, Tarragona, España",
+      "links": [
+        {
+          "name": "Linkedin",
+          "icon": "icons/linkedin.png",
+          "url": "linkedin.com/in/juzabel"
+        },
+        {
+          "name": "Github",
+          "icon": "icons/github.png",
+          "url": "https://github.com/juzabel"
+        }
+      ]
+    },
+    "skills": [
+      "Jetpack",
+      "Compose",
+      "Room",
+      "Navigation",
+      "Lifecycle",
+      "Koin",
+      "Dagger",
+      "Java",
+      "Kotlin",
+      "Legacy Android",
+      "SOLID",
+      "Clean Architecture",
+      "MVP",
+      "MVVM",
+      "CI/CD",
+      "Unit testing",
+      "Git"
+    ],
+    "languages": ["Castellano (nativo)", "Català (nativo)", "English (professional working proficiency)"]
+  },
+  "sections": {
+    "formation": [
+      {
+        "period": "2009-2012",
+        "title": "Ingeniería informática",
+        "center": "Universitat politècncia de València",
+        "location": "Valencia"
+      },
+      {
+        "period": "2005-2009",
+        "title": "Ingeniería técnica en informática de sistemas",
+        "center": "Universitat politècncia de València",
+        "location": "Valencia"
+      },
+      {
+        "period": "2003-2005",
+        "title": "Bachillerato tecnológico (matrícula de honor)",
+        "center": "IES El Cabanyal",
+        "location": "Valencia"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Ingeniero Android Sénior",
+        "company": "Basetis",
+        "location": "Barcelona (híbrido)",
+        "period": "Enero 2019 - Actualidad",
+        "bullets": [
+          "Android Tech Lead y Arquitecto en diversos proyectos de alto nivel, incluyendo la aplicación oficial del Mobile World Congress y Volava.",
+          "Lideré equipos de desarrollo, con metodologías Kanban y Scrum, gestionando entre 1 y 4 personas en distintos momentos.",
+          "Implementación de nuevas funcionalidades en apps heredadas, migrando partes de código de Java/XML a Kotlin/Compose con MVVM",
+          "En el Mobile World Congress App, trabajé en módulos como listado de expositores, eventos en vivo, mapas interiores y notificaciones push",
+          "Investigación en Android Automotive (AAOSP), explorando TaskViews, Virtual Screens, Task Display Areas, y acceso a datos del vehículo",
+          "Desarrollo de librería para ios y android con arquitectura escalable para Bluetooth en Volava, asegurando compatibilidad con bicicletas, cintas de correr y sacos de boxeo",
+          "Formación y mentoría a perfiles junior desarrollando una aplicación interna en Kotlin, Retrofit, Room, Unit Testing, MockK y arquitectura MVVM",
+          "Trabajo con equipos y proveedores internacionales, con comunicación en inglés.",
+          "Participación en desarrollo de backend con Kotlin y Springboot."
+        ]
+      },
+      {
+        "title": "Ingeniero Android Sénior",
+        "company": "SQLi (for Nespresso)",
+        "location": "Sant Just Desvern",
+        "period": "Abril 2018 - Enero 2019",
+        "bullets": [
+          "Desarrollo y mantenimiento de la aplicación oficial de Nespresso, centrada en comercio electrónico y experiencia de usuario fluida.",
+          "Implementación de un SDK genérico para aislar llamadas y lógica de negocio, facilitando una reimplementación futura.",
+          "Desarrollo con Java, XML, Retrofit y SQLite, aplicando MVVM + DataBinding para optimizar la separación de responsabilidades.",
+          "Aplicación de estrategias de caching y sincronización para mejorar la disponibilidad de datos en conexiones inestables.",
+          "Desarrollo de Unit Tests con Mockito y JUnit y UI Tests con Espresso para garantizar la estabilidad del código.",
+          "Uso de un mock server en Python para pruebas integradas sin depender del backend real.",
+          "Comunicación constante con equipos de diferentes países en inglés."
+        ]
+      },
+      {
+        "title": "Lider técnico Android",
+        "company": "Opentrends",
+        "location": "Barcelona",
+        "period": "Septiembre 2016 - Marzo 2018",
+        "bullets": [
+          "Tech Lead Android en una aplicación de automoción para una importante marca de coches.",
+          "Gestión de un equipo de hasta 4 desarrolladores Android en un entorno Scrum con dailies, sprints y planificación de tareas.",
+          "Implementación de funcionalidades como manuales interactivos, integración con el sistema del vehículo y recordatorios de estacionamiento con geolocalización.",
+          "Conectividad segura con el automóvil utilizando Bluetooth y protocolos propietarios",
+          "Aplicación de patrones de arquitectura MVP y uso de tecnologías como Java, Retrofit y SQLite.",
+          "Desarrollo de una plataforma estable con alto rendimiento, asegurando compatibilidad con múltiples modelos de vehículos.",
+          "Realización de un curso de Scrum para la integración en equipos ágiles."
+        ]
+      },
+      {
+        "title": "Senior Android developer",
+        "company": "Multiactiva Mobile",
+        "location": "Barcelona",
+        "period": "Febrero 2015 - Septiembre 2016",
+        "bullets": [
+          "Desarrollo de múltiples aplicaciones móviles para el Ayuntamiento de Barcelona, incluyendo La Mercè, Mapa B+S y Rutas Verdes Barcelona.",
+          "Implementación de sistemas de mapas interactivos con capas personalizables para mostrar información ecológica y sostenible.",
+          "Desarrollo de aplicaciones con Java, XML, Retrofit, RxJava y SQLite (ORMLite).",
+          "Creación de funcionalidades como calendarios interactivos, rutas en tiempo real y validación de contenido enviado por usuarios.",
+          "Desarrollo y optimización de la base de datos local para mejorar la gestión y búsqueda de información.",
+          "Diseño de interfaces intuitivas siguiendo Material Design.",
+          "Colaboración con equipos de backend para la integración de APIs de datos urbanos."
+        ]
+      },
+      {
+        "title": "Junior Android Developer",
+        "company": "E-tic sistemes",
+        "location": "Barcelona",
+        "period": "Junio 2013 - Febrero 2015",
+        "bullets": [
+          "Desarrollo de aplicaciones internas para la red comercial de Círculo de Lectores, utilizadas por comerciales y promotores.",
+          "Implementación de un sistema de gestión de pedidos y contratos, con integración de firmas digitales.",
+          "Creación de un sistema de sincronización con bases de datos centralizadas, mejorando la eficiencia de actualización de datos.",
+          "Uso de Java, Retrofit, SQLite y ASP.NET para la comunicación con servicios REST y SOAP.",
+          "Desarrollo de una infraestructura backend para gestionar los procesos administrativos y la autenticación de usuarios."
+        ]
+      },
+      {
+        "title": "Junior Android Developer",
+        "company": "Mobilendo",
+        "location": "Paterna (Valencia)",
+        "period": "Octubre 2012 - Marzo 2013",
+        "bullets": [
+          "Desarrollo de una app médica para el monitoreo remoto de personas mayores, facilitando la gestión de medicación y alertas de emergencia.",
+          "Proyectos personales como HCLauncher, launcher Android para personas con discapacidad visual"
+        ]
+      },
+      {
+        "title": "Becario Android",
+        "company": "Imaginagroup",
+        "location": "Valencia",
+        "period": "Octubre 2011 - Abril 2012",
+        "bullets": [
+          "Desarrollo de un videojuego comercial para Belros llamado Hungry Monster, utilizando Libgdx.",
+          "Implementación de mecánicas de juego, optimización del rendimiento y diseño de UI adaptado para público infantil.",
+          "Migración de la aplicación Ledit de iOS a Android, asegurando compatibilidad con múltiples dispositivos Android.",
+          "Uso de SVN, Java, XML y Views para la gestión de código y desarrollo colaborativo."
+        ]
+      },
+      {
+        "title": "Becario .NET",
+        "company": "AIDICO",
+        "location": "Paterna (Valencia)",
+        "period": "Febrero 2010 - Junio 2010",
+        "bullets": ["Implementación de sitios web mediante ASP.net y SQLServer"]
+      }
+    ],
+    "portfolio": [
+      {
+        "name": "My Mobile World Congress App (2019-Actualidad)",
+        "company": "Basetis",
+        "title": "Aplicación oficial para el Mobile World Congress",
+        "description": "Aplicación que comparte parte legacy en xml / mvc con parte moderna MVVM con tanto xml como compose. Conviven secciones de muy diferente características, como listado de expositores, agenda de eventos, eventos online mediante vídeos en vivo, mapas interiores del evento, notificaciones push... etc. Android Tech Lead, con un equipo variable entre yo solo y 2 personas Android adicionales. Uso de Kanban. Reuniones con proveedores internacionales en inglés. La aplicación es heredada en Java / Xml, pero se han implementado y reimplementado secciones usando kotlin + xml con mvvm y kotlin + compose con mvvm. También hay partes utilizando LiveData y otras Kotlin Flow + coroutines."
+      },
+      {
+        "name": "I+D Android Automotive (2022-2025)",
+        "company": "Basetis",
+        "title": "I+D sobre Android Automotive, desde la versión 12 a la 15",
+        "description": "Investigación sobre cómo modificar, extender, o añadir funcionalidades sobre la capa de aplicaciones de AAOSP (Android Automotive Open Source Project). Incluyendo el uso de TaskViews, Virtual Screens, Task Display Areas, acceso a datos del automóvil... etc. Reuniones con proveedores internacionales en inglés"
+      },
+      {
+        "name": "Volava (2020)",
+        "company": "Basetis",
+        "title": "Aplicación conectada por bluetooth a máquinas de deporte",
+        "description": "La aplicación estaba preparada para conectarse a bicicletas, cintas de correr y sacos de boxeo. El objetivo del proyecto era diseñar e implementar una arquitectura de una librería para iOS y Android que permitiera el implementar las conexiones a los dispositivos de manera escalable y eficiente. En este proyecto también ayudé a la implementación con Kotlin y Swift."
+      },
+      {
+        "name": "Basetis App (2019)",
+        "company": "Basetis",
+        "title": "Aplicación interna pensada como formación para personas Junior.",
+        "description": "Formador para personas Junior: MVVM, Kotlin, XML,  Retrofit, Room, Unit Testing con Mockk, JUnit, Scrum. Mock server con KTor, con arranque y parada al lanzar los tests"
+      },
+      {
+        "name": "Nespresso Application (2018)",
+        "company": "SQLi",
+        "title": "Aplicación de comercio electrónico para Nespresso",
+        "description": "Aplicación diseñada para permitir a los usuarios comprar productos de Nespresso de manera eficiente y fluida. Ofrecía un catálogo interactivo de productos con imágenes de alta calidad y descripciones detalladas, integración con múltiples métodos de pago seguros, gestión de pedidos y seguimiento de envíos en tiempo real. Se implementaron estrategias de caching y sincronización para mejorar la disponibilidad de datos incluso en conexiones inestables. Se creó un SDK genérico para poder introducir ahí las llamadas y la lógica de negocio para una posible re-implementación completa. Comunicación principal con el resto del equipo en inglés."
+      },
+      {
+        "name": "Aplicación con conexión bluetooth a automóviles (2016-2018)",
+        "company": "Opentrends",
+        "title": "Aplicación de automoción con múltiples funcionalidades",
+        "description": "Aplicación diseñada para mejorar la experiencia de los conductores mediante diversas funcionalidades como manuales interactivos con información detallada de cada modelo de vehículo, conexión con el automóvil para recibir diagnósticos y recordatorio de estacionamiento con geolocalización. La app permitía la integración con dispositivos móviles y el sistema de infoentretenimiento del vehículo. Se implementaron soluciones de conectividad segura utilizando Bluetooth y protocolos propietarios de comunicación. Tech lead equipo de hasta 4 personas. Proyecto con metodología Scrum. Realización de curso de Scrum durante el periodo del proyecto."
+      },
+      {
+        "name": "Mapa B+S (2016)",
+        "company": "Multiactiva Mobile",
+        "title": "Mapa interactivo de puntos de interés sostenibles en Barcelona",
+        "description": "Aplicación desarrollada para el Ayuntamiento de Barcelona que permitía visualizar y añadir puntos de interés sostenibles en la ciudad. Los usuarios podían explorar un mapa interactivo con ubicaciones de espacios ecológicos, puntos de reciclaje, huertos urbanos y otras iniciativas sostenibles. Además, se ofrecía la posibilidad de que los ciudadanos contribuyeran añadiendo nuevos puntos de interés, con un sistema de validación y moderación. Se utilizó una arquitectura basada en mapas dinámicos con capas de información personalizables."
+      },
+      {
+        "name": "Rutas Verdes Barcelona (2016)",
+        "company": "Multiactiva Mobile",
+        "title": "Aplicación de rutas ecológicas y sostenibles en Barcelona",
+        "description": "Aplicación desarrollada para el Ayuntamiento de Barcelona enfocada en rutas ecológicas y puntos de interés sostenibles en la ciudad. Los usuarios podían acceder a itinerarios guiados para recorrer la ciudad de forma sostenible, con recomendaciones de transporte ecológico y paradas en lugares emblemáticos relacionados con el medio ambiente. La app incorporaba una función de seguimiento en tiempo real de las rutas y permitía a los usuarios registrar sus propias experiencias y compartir fotos y comentarios"
+      },
+      {
+        "name": "La Mercè 2015 / 2016",
+        "company": "Multiactiva Mobile",
+        "title": "Aplicación oficial de las festividades de La Mercè",
+        "description": "Desarrollada para el Ayuntamiento de Barcelona, esta aplicación permitía a los ciudadanos acceder a la programación de eventos de la festividad de La Mercè, con información detallada sobre conciertos, actividades culturales y espectáculos. Contaba con un calendario interactivo en el que los usuarios podían marcar sus eventos favoritos y recibir recordatorios."
+      },
+      {
+        "name": "Joyas del Arte (2015-2016)",
+        "company": "Multiactiva Mobile",
+        "title": "Enciclopedia virtual de arte distribuida por Planeta",
+        "description": "Aplicación que digitalizaba la enciclopedia \"Joyas del Arte\", ofreciendo un extenso catálogo de arte con información detallada sobre artistas, movimientos artísticos y obras icónicas. Se incorporó un sistema de noticias actualizadas mediante RSS con información sobre exposiciones y eventos artísticos. Además, la app incluía una sección interactiva con un juego de mosaicos basado en arte y un mapa mundial donde los usuarios podían descubrir ubicaciones de museos y galerías de arte relevantes"
+      },
+      {
+        "name": "Aplicaciones para Red Comercial de Círculo de Lectores (2013-2015)",
+        "company": "E-tic sistemes",
+        "title": "Aplicaciones internas para la red comercial",
+        "description": "Desarrollo de aplicaciones internas para Círculo de Lectores dirigidas a comerciales y promotores de ventas. Estas herramientas permitían la gestión de contratos y pedidos directamente desde tablets, con integración de firmas digitales para agilizar los procesos administrativos. Se implementó un sistema de sincronización con bases de datos centralizadas para facilitar la actualización de información en tiempo real y mejorar la eficiencia de la red comercial. Desarrollo de APIs Rest/Json y SOAP mediante ASP.NET y C#"
+      },
+      {
+        "name": "HCLauncher (2013)",
+        "company": "Mobilendo",
+        "title": "Proyecto Propio con soporte de Mobilendo",
+        "description": "Desarrollo de un lanzador de aplicaciones optimizado para personas con discapacidad visual, con una interfaz simplificada y accesible. Se diseñaron botones de gran tamaño, opciones de navegación mediante voz y gestos, y compatibilidad con lectores de pantalla. Se priorizó una experiencia de usuario clara y sin distracciones, permitiendo a los usuarios acceder a sus aplicaciones esenciales de forma rápida y eficiente."
+      },
+      {
+        "name": "Control Automático de Bluetooth (2012)",
+        "company": "Proyecto final de carrera",
+        "title": "Sistema de reglas para control automático del Bluetooth",
+        "description": "Proyecto de investigación y desarrollo enfocado en la creación de un sistema de automatización basado en reglas para la gestión del Bluetooth en dispositivos móviles. Permitía configurar reglas personalizadas para activar o desactivar Bluetooth en función de la ubicación, el horario o el estado del dispositivo, optimizando el consumo energético y la conectividad."
+      },
+      {
+        "name": "Hungry Monster by Belros (2012)",
+        "company": "Imaginagroup",
+        "title": "Videojuego comercial desarrollado para Belros",
+        "description": "Videojuego de tipo arcade desarrollado para la marca Belros. Los jugadores debían capturar caramelos mientras esquivaban obstáculos, con una mecánica adictiva y gráficos coloridos diseñados para atraer a un público infantil y juvenil. Se implementaron mecánicas de recompensa y progresión para aumentar la retención de usuarios."
+      },
+      {
+        "name": "Ledit (2011)",
+        "company": "Imaginagroup",
+        "title": "Conversión de aplicación de iOS a Android",
+        "description": "Proyecto de adaptación y migración de la aplicación Ledit de iOS a Android, asegurando una experiencia de usuario optimizada y respetando las guías de diseño de ambas plataformas. Se trabajó en la compatibilidad con distintos tamaños de pantalla y la adaptación del rendimiento a dispositivos Android de diferentes gamas."
+      }
+    ]
+  }
+}

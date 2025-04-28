@@ -1,0 +1,16 @@
+{
+  "tabs": {
+    "education": "Formación",
+    "experience": "Experiencia Laboral",
+    "portfolio": "Portfolio"
+  },
+  "sections": {
+    "education": "Educación y Formación",
+    "experience": "Experiencia Profesional",
+    "portfolio": "Portafolio de Proyectos"
+  },
+  "skills": "Habilidades",
+  "languages": "Idiomas",
+  "downloadCV": "Descargar CV",
+  "contactInfo": "Información de Contacto"
+}
